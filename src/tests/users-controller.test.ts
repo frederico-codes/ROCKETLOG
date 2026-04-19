@@ -1,6 +1,7 @@
 import request from "supertest"
 import { prisma } from "@/database/prisma"
 import { app } from "@/app"
+import { describe, it, expect, afterAll } from "@jest/globals"
 
 describe("UsersController", () => { 
     let user_id:string
