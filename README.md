@@ -41,7 +41,7 @@ Utilize o arquivo abaixo para importar no Insomnia:
 🌐 API em produção
 A API está em produção via Render:
 
-🔗 https://rocketlog-deploy-abb6.onrender.com
+🔗 https://rocketlog-api-eo5j.onrender.com
 
 ---
 
